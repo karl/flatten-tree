@@ -15,6 +15,6 @@
     "chokidar-cli": "^1.2.0"
   },
   "dependencies": {
-    "lodash-fp": "^0.10.4"
+    "lodash": "^4.17.4"
   }
 }
