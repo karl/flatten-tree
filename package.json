@@ -13,5 +13,8 @@
   "devDependencies": {
     "ava": "^0.19.1",
     "chokidar-cli": "^1.2.0"
+  },
+  "dependencies": {
+    "lodash-fp": "^0.10.4"
   }
 }
